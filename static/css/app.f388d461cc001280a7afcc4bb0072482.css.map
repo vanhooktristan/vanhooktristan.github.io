@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.f388d461cc001280a7afcc4bb0072482.css"],"names":[],"mappings":"AACA,+BACI,oBAAqB,CACrB,UACJ","file":"app.f388d461cc001280a7afcc4bb0072482.css","sourcesContent":["\n.low-quantity[data-v-0d5655c4] {\n    background-color: red;\n    color: white;\n}\n   \n"]}
